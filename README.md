@@ -1,6 +1,6 @@
 # Zero-Shot Brain MRI Inpainting with 2.5D Unconditional Flow Priors
 
-[![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://openreview.net/forum?id=sm4S2RpZS3)
+[![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://papers.miccai.org/miccai-2026-sat/BraTS_Inpainting_003.html)
 [![Challenge](https://img.shields.io/badge/BraTS/MICCAI-2026%20Inpainting%20Challenge-green)](https://challenges.synapse.org/Challenges/DetailsPage/Task4?id=syn74274097)
 
 Official PyTorch implementation of the paper **"Zero-Shot Brain MRI Inpainting with 2.5D Unconditional Flow Priors"**, developed for the **BraTS 2026 Inpainting Challenge**.
